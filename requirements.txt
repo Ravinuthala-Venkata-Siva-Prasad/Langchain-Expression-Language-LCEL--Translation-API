@@ -1,0 +1,7 @@
+langchain
+python_dotenv
+openai
+langchain_core
+langchain-openai
+langchain-groq
+fastapi
